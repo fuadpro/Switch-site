@@ -2,4 +2,4 @@
 
 
 
-<a href="https://fuadpro.github.io/switch-site/"> ~ Live Demo</a>
+<a href="https://fuadpro.github.io/Switch-site/"> ~ Live Demo</a>
